@@ -1,7 +1,6 @@
 # Singly Linked List Implementation in Python
 
-This repository hosts a Python-based implementation of a Singly Linked List (SLL), a foundational data structure essential for efficient data management and manipulation. It includes comprehensive functionalities encapsulated within two main classes: `SLLNode` and `SinglyLinkedList`, aimed at providing an educational insight into the operation of linked lists.
-
+This repository hosts a Python-based implementation of a Singly Linked List (SLL), a foundational data structure essential for efficient data management and manipulation. It includes comprehensive functionalities encapsulated within two main classes: `SLLNode` and `SinglyLinkedList`, 
 ## Features
 
 ### SLLNode
